@@ -1,1 +1,1 @@
-QR Join Screen – draft
+Define worker QR join screen
